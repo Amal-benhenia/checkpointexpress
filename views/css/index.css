@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(53, 49, 44);
+}
+nav {
+    background-color: black;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin:0 30px 30px;
+}
+h3 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top:20% ;
+    
+}
+.contact {
+text-align: center;
+margin-top: 20%;
+}
